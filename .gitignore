@@ -1,0 +1,4 @@
+.sst/
+
+# Dependency directories
+node_modules/
