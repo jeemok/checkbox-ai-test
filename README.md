@@ -1,6 +1,7 @@
 # Task Management Software
 
-![image](./docs/screenshot.png)
+![image](./docs/screenshot%20home%20page.png)
+![image](./docs/screenshot%20login%20page.png)
 
 This project is designed to streamline the management of tasks, allowing users to view, edit, or delete tasks efficiently. With its intuitive table list view, users can effortlessly search tasks across any field and sort them by due date or creation date, ensuring a smooth task management experience.
 
