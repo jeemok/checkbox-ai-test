@@ -2,7 +2,7 @@ import { Api, Auth, StackContext, NextjsSite, use } from "sst/constructs";
 
 import { StorageStack } from "./StorageStack";
 
-const GOOGLE_CLIENT_ID = "xxxx.apps.googleusercontent.com"; // Replace here
+const GOOGLE_CLIENT_ID = "787079507186-m4aq8fdu6q94m0driov4g14f7283idja.apps.googleusercontent.com"; // Replace here
 
 export function AppStack({ stack }: StackContext) {
   const { table } = use(StorageStack);
